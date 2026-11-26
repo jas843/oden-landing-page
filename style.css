@@ -119,8 +119,9 @@ nav a:hover {
 }
 
 .card {
-  flex: 1 1 200px;
-  max-width: 200px;
+  flex: 1 1 0;
+  min-width: 140px;
+  max-width: 240px;
 }
 
 .card h3 {
